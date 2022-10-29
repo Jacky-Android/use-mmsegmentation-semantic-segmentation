@@ -11,6 +11,8 @@ use mmsegmentation semantic segmentation
 ![image](https://user-images.githubusercontent.com/55181594/198826427-d3b7b7e0-6c7e-4abf-acfe-bf292ff12dd9.png)
 ![image](https://user-images.githubusercontent.com/55181594/198826432-a68dbd54-9931-46ea-8d30-19d3e270e9bc.png)
 ![image](https://user-images.githubusercontent.com/55181594/198826436-e0182964-d196-4c00-babc-773713eabd66.png)
+## miou 到0.64，macc到0.73，应该在所有参加试验中很高了
+![image](https://user-images.githubusercontent.com/55181594/198826576-5e78b0cf-5945-4e9e-b1a4-9c79fcf2724e.png)
 
 ## 如果你也想用mmsegmentation来做实验，可以参照我的配置方法
 具体代码查看.ipynb
